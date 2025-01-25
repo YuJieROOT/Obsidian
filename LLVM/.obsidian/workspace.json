@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "096261d1c81ee596",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cc864dd64af3eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2ae23711fdce89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ch0 神经网络 & pytorch/主函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "主函数"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca3851699b8128f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e29bfd252d41bab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e06054dd6e91cfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "17c14955ec17d59a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2c53a12de45f4546",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f354a375fb4409c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cb972fffe2f76ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "421ea80fc845ba4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ch1 神经网络 & pytorch/【M】 神经网络 & pytorch 基础.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "【M】 神经网络 & pytorch 基础 的反向链接列表"
+            }
+          },
+          {
+            "id": "7249a58cc1d00966",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ch1 神经网络 & pytorch/【M】 神经网络 & pytorch 基础.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "【M】 神经网络 & pytorch 基础 的出链列表"
+            }
+          },
+          {
+            "id": "6c1947499fa1bde0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0400cad9708d2eca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ch1 神经网络 & pytorch/【M】 神经网络 & pytorch 基础.md"
+              },
+              "icon": "lucide-list",
+              "title": "【M】 神经网络 & pytorch 基础 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "f2ae23711fdce89c",
+  "lastOpenFiles": [
+    "Ch1 神经网络 & pytorch/【demo MNIST】手写体数字识别.md",
+    "Ch0 神经网络 & pytorch/训练代码详解 - 2.md",
+    "Ch0 神经网络 & pytorch/训练代码详解 - 1.md",
+    "Ch0 神经网络 & pytorch/模型评估函数.md",
+    "Ch0 神经网络 & pytorch/数据处理代码详解.md",
+    "Ch0 神经网络 & pytorch/数据加载函数.md",
+    "Ch0 神经网络 & pytorch/定义模型详解.md",
+    "Ch0 神经网络 & pytorch/主函数.md",
+    "Ch0 神经网络 & pytorch/【demo MNIST】手写体数字识别.md",
+    "Ch0 神经网络 & pytorch/【M】 神经网络 & pytorch 基础.md",
+    "Ch0 神经网络 & pytorch/【G】用 pytorch 构建一个模型 (nn.Module).md",
+    "Ch0 神经网络 & pytorch/【G】 神经网络基础.md",
+    "Ch0 神经网络 & pytorch/【C】用 pytorch 构建一个模型 (nn.Module).md",
+    "Ch0 神经网络 & pytorch",
+    "Ch1 神经网络 & pytorch/数据加载函数.md",
+    "Ch1 神经网络 & pytorch/训练代码详解 - 2.md",
+    "Ch1 神经网络 & pytorch/训练代码详解 - 1.md",
+    "Ch1 神经网络 & pytorch/主函数.md",
+    "Ch1 神经网络 & pytorch/【C】用 pytorch 构建一个模型 (nn.Module).md",
+    "Ch1 神经网络 & pytorch/【M】 神经网络 & pytorch 基础.md",
+    "Ch1 神经网络 & pytorch/【G】 神经网络基础.md",
+    "Ch1 神经网络 & pytorch/【G】用 pytorch 构建一个模型 (nn.Module).md",
+    "⭐️ TODOLIST.md",
+    "Ch1 神经网络 & pytorch/模型评估函数.md",
+    "Ch1 神经网络 & pytorch/定义模型详解.md",
+    "Ch1 神经网络 & pytorch/数据处理代码详解.md",
+    "Excalidraw/Drawing 2025-01-25 12.50.29.excalidraw.md",
+    "pytorch速通 2.ipynb",
+    "pytorch速通 1.ipynb",
+    "pytorch速通.ipynb",
+    "Ch1 神经网络 & pytorch",
+    "画板",
+    "[[Excalidraw",
+    "image/MNIST.png",
+    "Pasted Image 20250124221403_371.png",
+    "Excalidraw/Scripts/Downloaded/Uniform size.svg",
+    "Excalidraw/Scripts/Downloaded/Text Arch.svg",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw/Scripts/Downloaded/Set Link Alias.svg",
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "image"
+  ]
+}

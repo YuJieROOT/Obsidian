@@ -1,0 +1,38 @@
+{
+  "width": 640,
+  "showFilename": true,
+  "2x": true,
+  "format": "png0",
+  "showMetadata": false,
+  "recursive": false,
+  "quickExportSelection": true,
+  "authorInfo": {
+    "show": true,
+    "align": "right",
+    "position": "bottom",
+    "name": "FOUR_A"
+  },
+  "watermark": {
+    "enable": true,
+    "type": "text",
+    "text": {
+      "content": "FOUR_A",
+      "fontSize": 28,
+      "color": "#cccccc"
+    },
+    "image": {
+      "src": ""
+    },
+    "opacity": 0.2,
+    "rotate": 30,
+    "height": 64,
+    "width": 120,
+    "x": 100,
+    "y": 100
+  },
+  "split": {
+    "enable": true,
+    "height": 1000,
+    "overlap": 80
+  }
+}
